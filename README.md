@@ -18,8 +18,6 @@ pip install biliBV
 
 感谢原作者，知乎用户mcfx.
 
-[开源链接](https://github.com/ShiSheng233/bili_BV)
-
 ## 怎样使用这个库
 
 非常简单，只有两个函数.
