@@ -1,5 +1,8 @@
 # biliBV
 
+[![Python](https://img.shields.io/badge/Language-Python-green.svg)](https://python.org)
+[![LICENSE](https://img.shields.io/badge/License-WTFPL-green.svg)](LICENSE)
+
 ## 获取
 
 使用这条命令
