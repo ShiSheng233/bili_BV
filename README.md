@@ -1,5 +1,14 @@
 # biliBV
 
+## 获取
+
+使用这条命令
+```bash
+pip install biliBV
+```
+
+或者从本仓库的Release页面下载安装.
+
 ## 来源
 
 [算法来源](https://www.zhihu.com/question/381784377/answer/1099438784)
